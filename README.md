@@ -6,9 +6,7 @@
 
 <p align="center">
   <img width="18%" alt="F1_1" src="./assets/F1_1.png" />
-  <img width="18%" alt="F1_2" src="./assets/F1_2.png" />
   <img width="18%" alt="F1_4" src="./assets/F1_4.png" />
-  <img width="18%" alt="F1_5" src="./assets/F1_5.png" />
   <img width="18%" alt="F1_6" src="./assets/F1_6.png" />
 </p>
 
