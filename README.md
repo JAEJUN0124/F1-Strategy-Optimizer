@@ -1,6 +1,6 @@
-# 🏎️ F1 레이스 전략 최적화 시뮬레이터 (F1 Strategy Optimizer)
+# F1 레이스 전략 최적화 시뮬레이터 (F1 Strategy Optimizer)
 
-**'감'이 아닌 데이터와 알고리즘으로 '최적의 1초'를 찾는 F1 전략 분석 도구**
+**데이터와 알고리즘으로 '최적의 1초'를 찾는 F1 전략 분석 도구**
 
 <br>
 
@@ -35,18 +35,6 @@
 | **Charting** | `Recharts` |
 | **UI Components** | `Radix UI` |
 | **Icons** | `lucide-react` |
-
-<br>
-
-## 4. ⚙️ 실행 방법 (How to Run)
-
-1.  저장소를 클론합니다: `git clone [repository-url]`
-2.  프로젝트 디렉토리로 이동합니다: `cd F1-Strategy-Optimizer`
-3.  의존성을 설치합니다: `npm install`
-4.  개발 서버를 실행합니다: `npm run dev`
-5.  브라우저에서 `http://localhost:3000` (또는 지정된 포트)으로 접속합니다.
-
-_백엔드 서버(Python/FastAPI)는 별도로 실행해야 합니다. 백엔드 설정 및 실행 방법은 관련 문서를 참고하세요._
 
 <br>
 
