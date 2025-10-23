@@ -4,7 +4,13 @@
 
 <br>
 
-![F1 Strategy Simulator App Screenshot Collage](https://i.imgur.com/gA8xS1k.png)
+<p align="center">
+  <img src="URL_이미지_1" alt="앱 스크린샷 1" width="18%">
+  <img src="URL_이미지_2" alt="앱 스크린샷 2" width="18%">
+  <img src="URL_이미지_3" alt="앱 스크린샷 3" width="18%">
+  <img src="URL_이미지_4" alt="앱 스크린샷 4" width="18%">
+  <img src="URL_이미지_5" alt="앱 스크린샷 5" width="18%">
+</p>
 
 <br>
 
