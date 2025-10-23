@@ -5,9 +5,9 @@
 <br>
 
 <p align="center">
-  <img width="18%" alt="F1_1" src="./assets/F1_1.png" />
-  <img width="18%" alt="F1_4" src="./assets/F1_4.png" />
-  <img width="18%" alt="F1_6" src="./assets/F1_6.png" />
+  <img width="30%" alt="F1_1" src="./assets/F1_1.png" />
+  <img width="30%" alt="F1_4" src="./assets/F1_4.png" />
+  <img width="30%" alt="F1_6" src="./assets/F1_6.png" />
 </p>
 
 <br>
