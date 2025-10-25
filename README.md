@@ -47,4 +47,4 @@
 
 프로젝트의 시현 영상, 상세한 기획 배경, 요구사항, 설계, 개발 가이드 등은 아래 Notion 페이지에서 확인하실 수 있습니다.
 
-[➡️ **[프로젝트 Notion 페이지 링크 삽입]**](https://weak-rhinoceros-b64.notion.site/F1-Strategy-Optimizer-2972941fd8578005b8f8f09dd3aff5e1?source=copy_link)
+[➡️ **[Notion Link]**](https://weak-rhinoceros-b64.notion.site/F1-2952941fd857805bb701c3a47f583219?source=copy_link)
